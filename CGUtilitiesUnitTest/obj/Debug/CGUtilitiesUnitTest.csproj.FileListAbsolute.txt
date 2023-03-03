@@ -1,0 +1,10 @@
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojAssemblyReference.cache
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csproj.CoreCompileInputs.cache
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csproj.CopyComplete
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+G:\CGUI-master\CGUI-master\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb
