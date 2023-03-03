@@ -1,0 +1,6 @@
+G:\CGUI-master\CGUI-master\CGUtilities\bin\Debug\CGUtilities.dll
+G:\CGUI-master\CGUI-master\CGUtilities\bin\Debug\CGUtilities.pdb
+G:\CGUI-master\CGUI-master\CGUtilities\obj\Debug\CGUtilities.csproj.CoreCompileInputs.cache
+G:\CGUI-master\CGUI-master\CGUtilities\obj\Debug\CGUtilities.dll
+G:\CGUI-master\CGUI-master\CGUtilities\obj\Debug\CGUtilities.pdb
+G:\CGUI-master\CGUI-master\CGUtilities\obj\Debug\CGUtilities.csprojAssemblyReference.cache
