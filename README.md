@@ -4,6 +4,6 @@
 * Extreme Points
 * Extreme Segments
 * Graham Scan
-* Incremental Algoritm
+* Incremental
 * Jarvis March
 * Quick Hull
