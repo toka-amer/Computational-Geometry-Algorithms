@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Peter Ghaly 
+
 namespace CGAlgorithms.Algorithms.ConvexHull
 {
     public class ExtremePoints : Algorithm
